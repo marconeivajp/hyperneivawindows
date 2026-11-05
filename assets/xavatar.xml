@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <header>
+        <listname>xavatar</listname>
+        <lastlistupdate>17/03/2026</lastlistupdate>
+        <exporterversion>HyperNeiva Custom XML</exporterversion>
+    </header>
+
+    <game name="xavatar lapys" enabled="1">
+        <description>xavatar lapys</description>
+        <manufacturer>Sega</manufacturer>
+        <year>1988</year>
+        <genre>Platform</genre>
+        <rating>Other</rating>
+        <enabled>Yes</enabled>
+        <!-- Link configurado com dl=1 para download direto via rede no PS4 -->
+        <link>https://www.dropbox.com/scl/fi/uf6va6wqcfa77gtkp28x7/xavatar_lapys.zip?rlkey=eohyh5y71vgp2vonz8wzro2jw&st=1760pb9l&dl=1</link>
+        <system>Master System</system>
+    </game>
+</menu>

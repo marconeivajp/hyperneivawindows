@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <header>
+        <listname>Master System</listname>
+        <lastlistupdate>17/03/2026</lastlistupdate>
+        <exporterversion>HyperNeiva Custom XML</exporterversion>
+    </header>
+
+    <game name="Bubble Bobble" enabled="1">
+        <description>Bubble Bobble (Europe)</description>
+        <manufacturer>Sega</manufacturer>
+        <year>1988</year>
+        <genre>Platform</genre>
+        <rating>Other</rating>
+        <enabled>Yes</enabled>
+        <!-- Link configurado com dl=1 para download direto via rede no PS4 -->
+        <link>https://www.dropbox.com/scl/fi/4i4h2ix2ksi2fyhjt2jy5/Bubble-Bobble-Europe.zip?rlkey=e4nruzvok23bk0bcckieglmkm&amp;st=c61wveq6&amp;dl=1</link>
+        <system>Master System</system>
+    </game>
+</menu>

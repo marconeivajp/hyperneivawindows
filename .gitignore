@@ -1,0 +1,20 @@
+# Segredos e dados pessoais
+segredos_local.h
+data/
+assets/dropbox_token.txt
+*.dat
+*_token.txt
+
+# Binarios e saida de build
+*.exe
+*.dll
+*.o
+*.a
+*.pkg
+*.log
+*.err
+build_log*.txt
+build_out.txt
+
+# Backups
+backup_*/

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <header>
+        <listname>Master System</listname>
+        <lastlistupdate>17/03/2026</lastlistupdate>
+        <exporterversion>HyperNeiva Custom XML</exporterversion>
+    </header>
+
+    <game name="Sega Master System" enabled="1">
+        <description>Bubble Bobble (Europe)</description>
+        <manufacturer>Sega</manufacturer>
+        <year>1988</year>
+        <genre>Platform</genre>
+        <rating>Other</rating>
+        <enabled>Yes</enabled>
+        <!-- Link configurado com dl=1 para download direto via rede no PS4 -->
+        <link>https://www.dropbox.com/scl/fi/7apjc53n5n22zquycbnor/Nintendo-Entertainment-System.7z?rlkey=k6x3u8r039yv12w14kk0i9jc0&st=2mc1dwml&dl=1</link>
+        <system>Master System</system>
+    </game>
+</menu>
+
+    <game name="Nintendo Entertainment System" enabled="1">
+        <description>Bubble Bobble (Europe)</description>
+        <manufacturer>Sega</manufacturer>
+        <year>1988</year>
+        <genre>Platform</genre>
+        <rating>Other</rating>
+        <enabled>Yes</enabled>
+        <!-- Link configurado com dl=1 para download direto via rede no PS4 -->
+        <link>https://www.dropbox.com/scl/fi/7apjc53n5n22zquycbnor/Nintendo-Entertainment-System.7z?rlkey=k6x3u8r039yv12w14kk0i9jc0&st=d6xkejpf&dl=1</link>
+        <system>Master System</system>
+    </game>
+</menu>
+
+    <game name="Atari 2600" enabled="1">
+        <description>Bubble Bobble (Europe)</description>
+        <manufacturer>Sega</manufacturer>
+        <year>1988</year>
+        <genre>Platform</genre>
+        <rating>Other</rating>
+        <enabled>Yes</enabled>
+        <!-- Link configurado com dl=1 para download direto via rede no PS4 -->
+        <link>https://www.dropbox.com/scl/fi/kd9yp88ozn8mt9h6d27cf/Atari-2600.rar?rlkey=g82hi766v5i44tked8u0c8eu6&st=u43hyc9v&dl=1</link>
+        <system>Master System</system>
+    </game>
+</menu>
