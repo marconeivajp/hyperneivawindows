@@ -15,3 +15,8 @@ cmd /c build.bat
 As chaves não ficam no repositório. Copie `segredos_exemplo.h` para `segredos_local.h` e preencha. Sem esse arquivo o app compila, mas Dropbox, Google Drive e TMDB ficam sem as chaves padrão.
 
 A pasta `data/` guarda dados pessoais e não é versionada.
+## Licença
+
+Este projeto é distribuído sob a GNU Affero General Public License, versão 3 (AGPL-3.0). Veja o arquivo [LICENSE](LICENSE).
+
+O app usa bibliotecas de terceiros com licenças próprias, como MuPDF (AGPL-3.0) e FFmpeg (GPL-3.0).
